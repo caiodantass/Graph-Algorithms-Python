@@ -70,11 +70,11 @@ python -m unittest grafo_lista_adj_test.py
 # Ou rode todos os testes do projeto de uma vez:
 python -m unittest discover -s . -p "*_test.py"
 ```
+---
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
-Caio Lívio Dantas
-
-Engenheiro de Software / Desenvolvedor
-LinkedIn: linkedin.com/in/caio-lívio
-GitHub: @caiodantass
+**Caio Lívio Dantas**  
+* Engenheiro de Software / Desenvolvedor  
+* LinkedIn: [linkedin.com/in/caio-lívio](https://www.linkedin.com/in/caio-l%C3%ADvio/)  
+* GitHub: [@caiodantass](https://github.com/caiodantass)

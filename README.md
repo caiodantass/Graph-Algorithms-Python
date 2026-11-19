@@ -11,7 +11,7 @@ O repositório contempla implementações completas de grafos direcionados e nã
 
 ---
 
-## 🚀 Algoritmos e Estruturas Implementadas
+## Algoritmos e Estruturas Implementadas
 
 | Categoria | Algoritmo / Estrutura | Complexidade | Arquivo / Módulo |
 | :--- | :--- | :---: | :--- |
@@ -27,7 +27,7 @@ O repositório contempla implementações completas de grafos direcionados e nã
 
 ---
 
-## 🧪 Qualidade de Código & Test-Driven Development (TDD)
+## Qualidade de Código & Test-Driven Development (TDD)
 
 Todas as implementações foram validadas com suítes de testes automatizados utilizando o framework `unittest` padrão do Python, garantindo:
 
@@ -37,14 +37,14 @@ Todas as implementações foram validadas com suítes de testes automatizados ut
 
 ---
 
-## 📂 Organização dos Módulos
+## Organização dos Módulos
 
 graph-algorithms/ ├── 01-adjacency-list/ # Operações fundamentais em Listas de Adjacência ├── 02-bfs-dfs-traversal/ # Travessias em largura e profundidade com árvore geradora ├── 03-cycles-and-connectivity/ # Algoritmos de identificação de ciclos e caminhos máximos ├── 04-undirected-matrix/ # Grafos não-direcionados com Matriz de Adjacência ├── 05-directed-matrix-warshall/ # Dígrafos e Fecho Transitivo de Warshall ├── 06-minimum-spanning-tree/ # Síntese de MST via Prim e Kruskal (com Bucket Sort) └── 07-constrained-routing/ # Roteamento de menor custo e Dijkstra adaptado
 
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 * **Linguagem**: Python 3.8+ (Zero dependências externas / Vanilla Python)
 * **Framework de Testes**: `unittest`
@@ -52,7 +52,7 @@ graph-algorithms/ ├── 01-adjacency-list/ # Operações fundamentais em Lis
 
 ---
 
-## 🚀 Como Executar e Testar
+## Como Executar e Testar
 
 ### Pré-requisitos
 * Python 3 instalado no sistema.
@@ -72,7 +72,7 @@ python -m unittest discover -s . -p "*_test.py"
 ```
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Caio Lívio Dantas**  
 * Engenheiro de Software / Desenvolvedor  
